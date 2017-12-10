@@ -11,7 +11,7 @@ git clone https://github.com/sirredbeard/anaconda3desktopfile.git
 cd anaconda3desktopfile/
 ```
 
-Edit path to your anaconda3 location (/home/sirredbeard/anaconda3, /opt/anaconda3, etc.) in your editor of choice.
+Edit path to your anaconda3 location (e.g. /home/sirredbeard/anaconda3, /opt/anaconda3, etc.) in your editor of choice.
 ```
 nano anaconda.desktop 
 ```
