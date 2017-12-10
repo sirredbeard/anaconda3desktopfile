@@ -10,7 +10,7 @@ git clone https://github.com/sirredbeard/anaconda3desktopfile.git
 cd anaconda3desktopfile/
 ```
 
-Edit path to your anaconda3 location in your editor of choice.
+Edit path to your anaconda3 location in your editor of choice. Default is ~/anaconda3.
 
 ```
 nano anaconda.desktop (~/anaconda3, /opt/anaconda3, etc.)
@@ -19,8 +19,7 @@ nano anaconda.desktop (~/anaconda3, /opt/anaconda3, etc.)
 Copy everything into place.
 
 ```
-cp anaconda.desktop ~/.local/share/applications/
-cp anaconda.png ~/.local/share/applications/
+cp anaconda.* ~/.local/share/applications/
 ```
 
 Clean up.
