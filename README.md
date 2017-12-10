@@ -1,5 +1,7 @@
 # anaconda3desktopfile
-A .desktop file for Anaconda3
+A .desktop file for [Anaconda3](https://www.anaconda.com/download/#macos) for XFCE4 and other -nix desktop environments.
+
+![anaconda](anaconda.png)
 
 ## Instructions
 
