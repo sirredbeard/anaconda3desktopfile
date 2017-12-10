@@ -3,9 +3,9 @@ Version=1.0
 Type=Application
 Name=Anaconda Navigator
 GenericName=Anaconda
-Icon=~/.local/share/applications/anaconda.png
-Exec=bash -c 'export PATH="~/anaconda3/bin:$PATH" && ~/anaconda3/bin/anaconda-navigator'
-Path=/home/elitebook/anaconda3/
+Icon=/home/[username]/.local/share/applications/anaconda.png
+Exec=bash -c 'export PATH="/home/[username]/anaconda3/bin:$PATH" && /home/[username]/anaconda3/bin/anaconda-navigator'
+Path=/home/[username]/anaconda3/
 NoDisplay=false
 Categories=Development;Education;IDE;Science;
 StartupNotify=true
