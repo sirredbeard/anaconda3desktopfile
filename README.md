@@ -19,7 +19,7 @@ nano anaconda.desktop (~/anaconda3, /opt/anaconda3, etc.)
 Copy everything into place.
 
 ```
-cp anaconda.desktop anaconda.desktop ~/.local/share/applications/
+cp anaconda.desktop ~/.local/share/applications/
 cp anaconda.png ~/.local/share/applications/
 ```
 
