@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Anaconda Navigator
+Name=Anaconda3
 GenericName=Anaconda
 Icon=/home/[username]/.local/share/applications/anaconda.png
 Exec=bash -c 'export PATH="/home/[username]/anaconda3/bin:$PATH" && /home/[username]/anaconda3/bin/anaconda-navigator'
