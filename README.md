@@ -18,7 +18,8 @@ nano anaconda.desktop
 
 Copy everything into place.
 ```
-cp anaconda.* ~/.local/share/applications/
+cp anaconda.desktop ~/.local/share/applications/
+cp anaconda.png ~/.local/share/applications/
 ```
 
 Clean up.
